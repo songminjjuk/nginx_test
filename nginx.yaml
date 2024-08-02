@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: 261595668962.dkr.ecr.ap-northeast-2.amazonaws.com/nginx:1
+        image: alstjrdlep/nginx:4
