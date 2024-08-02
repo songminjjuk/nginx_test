@@ -7,7 +7,7 @@ spec:
   selector:
     app: nginx
   ports:
-  - nodePort: 31000
+  - nodePort: 31100
     port: 80
     targetPort: 80
 ---
